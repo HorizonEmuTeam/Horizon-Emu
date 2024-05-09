@@ -17,6 +17,7 @@ That's all!
 
 # Configuration
 `Settings For X11`
+
 In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
 ## Dynarec and other's emulator settings
 Moved to environment configuration, works in manual format.
