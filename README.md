@@ -29,7 +29,6 @@ Root is not required.
 # Issues on beta 0.8
 >Removing a container
 When deleting a container using the delete container button, the directory of drive D is also deleted, that is, in our case, the download folder. At the same time, the data of the application itself is cleared. 
-
 [Normal way to delete a container](https://t.me/HorizonEmuOfficial/434)
 
 >Lack of VirGL support
