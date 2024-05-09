@@ -2,9 +2,9 @@
 	<img src="ProjectLogo.jpg" width="256" height="246" />  
 </p>
 
-<div style="text-align:center;">
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
+<div style="text-align:center;">
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
 
