@@ -2,6 +2,11 @@
 	<img src="ProjectLogo.jpg" width="256" height="246" />  
 </p>
 
+English
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+
 # Horizon-Emu
 
 Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device.
