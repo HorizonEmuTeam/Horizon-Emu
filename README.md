@@ -16,7 +16,7 @@ Horizon Emu is an application that allows you to run Windows x86_64 applications
 That's all!
 
 # Configuration
-## Settings For X11
+`Settings For X11`
 In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
 ## Dynarec and other's emulator settings
 Moved to environment configuration, works in manual format.
