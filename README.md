@@ -16,23 +16,23 @@ Horizon Emu is an application that allows you to run Windows x86_64 applications
 That's all!
 
 # Configuration
-`Settings For X11`
+>Settings For X11`
 
 In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
 
-`Dynarec and other emulator's settings`
+>Dynarec and other emulator's settings
 
 Moved to environment configuration, works in manual format.
-## Launch script output
+
+>Launch script output
 You can check the operation of the container, and so on.
-## Terminal
+>Terminal
 Android console emulator, can use commands like cd, tar, etc.
-## Support Devices
-### Android Version 
-Minimal version - Android 9
-### Minimum GPU and CPU
+>Support Devices
+`Minimal version - Android 9.`
+`Minimum GPU and CPU`
 Adreno 610, and any that supports turnip. CPU with aarch64.
-### Root
+`Root`
 Root is not required.
 # Issues on beta 0.8
 >Removing a container
