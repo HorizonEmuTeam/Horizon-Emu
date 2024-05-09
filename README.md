@@ -19,7 +19,9 @@ That's all!
 `Settings For X11`
 
 In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
-## Dynarec and other's emulator settings
+
+`Dynarec and other emulator's settings`
+
 Moved to environment configuration, works in manual format.
 ## Launch script output
 You can check the operation of the container, and so on.
