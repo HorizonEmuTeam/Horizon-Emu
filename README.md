@@ -26,7 +26,7 @@ That's all!
 
 Recommend settings: 
 
-`Screen resolution mode:` custom
+`Screen resolution mode:` custom;
 `Screen resolution:` 960x540
 
 Then everything is at the discretion of the user.
