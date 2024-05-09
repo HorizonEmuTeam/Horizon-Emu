@@ -1,11 +1,12 @@
-<p align="center">
-	<img src="ProjectLogo.jpg" width="256" height="246" />  
-</p>
-
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
+
+
+<p align="center">
+	<img src="ProjectLogo.jpg" width="256" height="246" />  
+</p>
 
 # Horizon-Emu
 
