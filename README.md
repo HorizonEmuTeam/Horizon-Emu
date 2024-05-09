@@ -1,2 +1,77 @@
+<p align="center">
+	<img src="ProjectLogo.jpg" width="256" height="246" />  
+</p>
+
 # Horizon-Emu
-![Logo](https://github.com/DragoPayras228/Horizon-Emu/main/logo.png)
+
+Application for launching Windows x86 applications on Android.
+
+# Installation 
+
+Just find out apk, and go to the download menu to download resources - done!
+
+# Configuration
+## Settings For X11
+In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
+## Dynarec and other's emulator settings
+Moved to environment configuration, works in manual format.
+## Launch script output
+You can check the operation of the container, and so on.
+## Terminal
+Android console emulator, can use commands like cd, tar, etc.
+## Support Devices
+### Android Version 
+Minimal version - Android 10
+### Minimum GPU and CPU
+Adreno 610, and any that supports turnip. CPU with aarch64.
+### Root
+Root is not required.
+# Issues on beta 0.8
+## Removing a container
+When deleting a container using the delete container button, the directory of drive D is also deleted, that is, in our case, the download folder. At the same time, the data of the application itself is cleared. 
+
+[Normal way to delete a container](https://t.me/HorizonEmuOfficial/434)
+
+## Lack of VirGL support
+
+# Thanks 
+Jotaros - adding apk and idea for project development
+
+DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors
+
+Alexoqool - idea of ​​how you can add files and edit apk
+
+Snap - adding a lot of dxvk and turnips, adding wine selection
+
+MTK Top Proc - idea of how you can add files
+## Third party applications
+
+[glibc-packages](https://github.com/termux-pacman/glibc-packages)
+
+[Box64](https://github.com/ptitSeb/box64)
+
+[Box86](https://github.com/ptitSeb/box86)
+
+[DXVK](https://github.com/doitsujin/dxvk)
+
+[DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
+
+[DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
+
+[VKD3D](https://github.com/lutris/vkd3d)
+
+[D8VK](https://github.com/AlpyneDreams/d8vk)
+
+[Mobox](https://github.com/olegos2/mobox)
+
+[Termux-x11](https://github.com/termux/termux-x11)
+
+[Wine](https://wiki.winehq.org/Licensing)
+
+[wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)
+
+[Mesa](https://docs.mesa3d.org/license.html)
+
+[mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+
+[Mesa-VirGL](https://github.com/alexvorxx/Mesa-VirGL)
