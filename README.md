@@ -4,7 +4,7 @@
 
 # Horizon-Emu
 
-Application for launching Windows x86 applications on Android.
+Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device.
 
 # Installation 
 
@@ -21,7 +21,7 @@ You can check the operation of the container, and so on.
 Android console emulator, can use commands like cd, tar, etc.
 ## Support Devices
 ### Android Version 
-Minimal version - Android 10
+Minimal version - Android 9
 ### Minimum GPU and CPU
 Adreno 610, and any that supports turnip. CPU with aarch64.
 ### Root
