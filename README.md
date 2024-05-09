@@ -16,7 +16,7 @@ Horizon Emu is an application that allows you to run Windows x86_64 applications
 That's all!
 
 # Configuration
->Settings For X11: In the X11 settings tab you will be greeted with settings transferred from Termux-x11 Preferences.
+>Settings For X11: In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences.
 
 >Dynarec and other emulator's settings: Moved to environment configuration, works in manual format.
 
@@ -43,13 +43,13 @@ When deleting a container using the delete container button, the directory of dr
 
 # Special thanks 
 
-Jotaros - adding apk and idea for project development
+Jotaros - adding Apk and idea for project development
 
 DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors
 
-Alexoqool - idea of ​​how you can add files and edit apk
+Alexoqool - idea of ​​how you can add files and edit Apk
 
-Snap - adding a lot of dxvk and turnips, adding wine selection
+Snap - adding a lot of DXVK and Turnips, adding Wine selection
 
 MTK Top Proc - idea of how you can add files
 ## Third party applications
@@ -72,7 +72,7 @@ MTK Top Proc - idea of how you can add files
 
 [Mobox](https://github.com/olegos2/mobox)
 
-[Termux-x11](https://github.com/termux/termux-x11)
+[Termux-X11](https://github.com/termux/termux-x11)
 
 [Wine](https://wiki.winehq.org/Licensing)
 
