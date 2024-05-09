@@ -32,18 +32,14 @@ Recommend settings:
 Then everything is at the discretion of the user.
 
 * `Dynarec and other emulator's settings:` Moved to environment configuration, works in manual format.
-
 * `Launch script output:` You can check the operation of the container, and so on.
-
 * `Terminal:` Android console emulator, can use commands like cd, tar, etc.
 
 ## Supported devices
 
 * `Minimum Required Android Version:` Android 9.
-
 * `Minimum GPU and CPU:`
 Adreno 610, and any that supports Turnip. CPU with aarch64.
-
 * `Root:`
 Root is not required.
 
