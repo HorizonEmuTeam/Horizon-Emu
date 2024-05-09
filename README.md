@@ -3,8 +3,7 @@
 </p>
 
 English
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<div style="text-align:center;">
+&nbsp;&nbsp;| &nbsp;&nbsp; <div style="text-align:center;">
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
 
