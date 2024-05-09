@@ -50,6 +50,7 @@ Alexoqool - idea of ​​how you can add files and edit Apk
 Snap - adding a lot of DXVK and Turnips, adding Wine selection
 
 MTK Top Proc - idea of how you can add files
+
 ## Third party applications
 
 [glibc-packages](https://github.com/termux-pacman/glibc-packages)
@@ -74,7 +75,7 @@ MTK Top Proc - idea of how you can add files
 
 [Wine](https://wiki.winehq.org/Licensing)
 
-[wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom)
+[Wine-GE-Custom](https://github.com/GloriousEggroll/wine-ge-custom)
 
 [Mesa](https://docs.mesa3d.org/license.html)
 
