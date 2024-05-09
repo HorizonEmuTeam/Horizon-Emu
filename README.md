@@ -24,7 +24,7 @@ That's all!
 
 >Terminal: Android console emulator, can use commands like cd, tar, etc.
 
-## Supported Devices
+## Supported devices
 
 >Minimum Required Android Version: Android 9.
 
@@ -41,7 +41,8 @@ When deleting a container using the delete container button, the directory of dr
 >Lack of VirGL support
 
 
-# Thanks 
+# Special thanks 
+
 Jotaros - adding apk and idea for project development
 
 DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors
