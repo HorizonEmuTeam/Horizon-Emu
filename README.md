@@ -41,8 +41,6 @@ When deleting a container using the delete container button, the directory of dr
 
 # Special thanks 
 
-Jotaros - adding Apk and idea for project development
-
 DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors
 
 Alexoqool - idea of ​​how you can add files and edit Apk
