@@ -2,6 +2,11 @@
 	<img src="ProjectLogo.jpg" width="256" height="246" />  
 </p>
 
+<a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main">English</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+Русский
+&nbsp;&nbsp;
+
 # Horizon-Emu
 
 Horizon Emu - это приложение, которое позволяет вам запускать приложения для Windows x86_64 на вашем Android устройстве.
