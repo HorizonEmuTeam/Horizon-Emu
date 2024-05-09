@@ -31,12 +31,12 @@ Android console emulator, can use commands like cd, tar, etc.
 
 ## Supported Devices
 
->Minimal version - Android 9.
+>Minimum Required Android Version: Android 9.
 
->Minimum GPU and CPU
+>Minimum GPU and CPU:
 Adreno 610, and any that supports turnip. CPU with aarch64.
 
->Root
+>Root:
 Root is not required.
 
 # Issues on beta 0.8
