@@ -28,6 +28,7 @@ Moved to environment configuration, works in manual format.
 You can check the operation of the container, and so on.
 >Terminal
 Android console emulator, can use commands like cd, tar, etc.
+
 >Support Devices
 `Minimal version - Android 9.`
 
