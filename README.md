@@ -9,9 +9,9 @@ Horizon Emu is an application that allows you to run Windows x86_64 applications
 # Installation 
 
 1) Go to [Releases tab](https://github.com/DragoPayras228/Horizon-Emu/releases/), open latest release, download an Apk file and install it.
-2) Open an application, provide all requset permissions, go to `Download` tab, and click on Update all, in this tab also download Wine version that you want
-3) Open `Containers` tab, click on `Create a new container`, select name for your container, press `Confirm`, then select settings that you need and click `Done`
-4) Run container by clicking on shortcut named "FileManager"
+2) Open an application, provide all requset permissions, go to `Download` tab, and click on Update all, in this tab also download Wine version that you want.
+3) Open `Containers` tab, click on `Create a new container`, select name for your container, press `Confirm`, then select settings that you need and click `Done`.
+4) Run container by clicking on shortcut named "FileManager".
 
 That's all!
 
@@ -36,18 +36,18 @@ Root is not required.
 
 # Issues on beta 0.8
 ## Removing a container
-When deleting a container using the delete container button, the directory of drive D is also deleted, that is, in our case, the download folder. At the same time, the data of the application itself is cleared. ([Normal way to delete a container](https://t.me/HorizonEmuOfficial/434))
-## Lack of VirGL support
+When deleting a container using the delete container button, the directory of drive D is also deleted, that is, in our case, the download folder. At the same time, the data of the application itself is cleared. ([Normal way to delete a container](https://t.me/HorizonEmuOfficial/434)).
+## Lack of VirGL support.
 
 # Special thanks 
 
-DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors
+DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors.
 
-Alexoqool - idea of ​​how you can add files and edit Apk
+Alexoqool - idea of ​​how you can add files and edit Apk.
 
-Snap - adding a lot of DXVK and Turnips, adding Wine selection
+Snap - adding a lot of DXVK and Turnips, adding Wine selection.
 
-MTK Top Proc - idea of how you can add files
+MTK Top Proc - idea of how you can add files.
 
 ## Third party applications
 
