@@ -82,8 +82,6 @@ MTK Top Proc - представление о том, как можно доба�
 
 [Wine](https://wiki.winehq.org/Licensing)
 
-[Wine-GE-Custom](https://github.com/GloriousEggroll/wine-ge-custom)
-
 [Mesa](https://docs.mesa3d.org/license.html)
 
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
