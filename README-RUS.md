@@ -4,7 +4,7 @@
 &nbsp;&nbsp;
 
 <p align="center">
-	<img src="ProjectLogo.jpg" width="256" height="246" />  
+	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
 # Horizon-Emu
