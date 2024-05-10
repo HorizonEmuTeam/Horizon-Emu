@@ -86,5 +86,3 @@ MTK Top Proc - idea of how you can add files.
 [Mesa](https://docs.mesa3d.org/license.html)
 
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
-
-[Mesa-VirGL](https://github.com/alexvorxx/Mesa-VirGL)
