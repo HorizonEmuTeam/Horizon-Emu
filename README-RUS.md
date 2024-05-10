@@ -60,11 +60,15 @@ MTK Top Proc - представление о том, как можно доба�
 
 ## Сторонние приложения
 
-[glibc-packages](https://github.com/termux-pacman/glibc-packages)
+[Wine](https://wiki.winehq.org/Licensing)
+
+[Box86](https://github.com/ptitSeb/box86)
 
 [Box64](https://github.com/ptitSeb/box64)
 
-[Box86](https://github.com/ptitSeb/box86)
+[glibc-packages](https://github.com/termux-pacman/glibc-packages)
+
+[Mobox](https://github.com/olegos2/mobox)
 
 [DXVK](https://github.com/doitsujin/dxvk)
 
@@ -76,11 +80,7 @@ MTK Top Proc - представление о том, как можно доба�
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
 
-[Mobox](https://github.com/olegos2/mobox)
-
 [Termux-X11](https://github.com/termux/termux-x11)
-
-[Wine](https://wiki.winehq.org/Licensing)
 
 [Mesa](https://docs.mesa3d.org/license.html)
 
