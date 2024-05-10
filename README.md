@@ -49,6 +49,7 @@ When deleting a container using the delete container button, the directory of dr
 ## Lack of VirGL support.
 
 # Special thanks 
+Jotaros
 
 DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors.
 
