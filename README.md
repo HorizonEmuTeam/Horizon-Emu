@@ -39,7 +39,7 @@ Then everything is at the discretion of the user.
 
 * `Minimum Required Android Version:` Android 9.
 * `Minimum GPU and CPU:`
-Adreno 610, and any that supports Turnip. CPU with aarch64.
+Adreno 610, and any other GPU that supports Turnip. CPU with aarch64.
 * `Root:`
 Root is not required.
 
