@@ -59,7 +59,7 @@ Root is not required.
 
 - [ ] Implement VirGL support 
 - [ ] Fix container deletion option
-- [ ] Add built-in controls
+- [ ] Add built-in controls (Maybe)
 
 # Special thanks 
 Jotaros
