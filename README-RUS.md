@@ -11,7 +11,7 @@
 
 <b>Horizon Emu</b> - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.
 
-![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=GitHub%20Downloads)
+![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Скачиваний на%20GitHub)
 
 # Установка 
 
