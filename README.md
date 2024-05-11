@@ -19,7 +19,7 @@ Horizon Emu is an application that allows you to run Windows x86_64 applications
 3) Open `Containers` tab, click on `Create a new container`, select name for your container, press `Confirm`, then select settings that you need and click `Done`.
 4) Run container by clicking on shortcut named `FileManager`.
 5) For on-screen controls use application called InputBridge. To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubusercontent.com/DragoPayras228/Horizon-Emu/main/InputBridge_v0.1.9.9.apk), open an application called `InputBridge` and provide all requested permissions, then press `Import` and select file of your controls profile (in .ibp format).
-To run InputBridge in container, press on `Start`, find there `ib.exe` and click on it.
+In container, InputBridge will be launched automatically.
 
 That's all!
 
