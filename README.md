@@ -57,9 +57,9 @@ Root is not required.
 
 # Our main goals
 
-- [ ] Implement VirGL support 
-- [ ] Fix container deletion option
-- [ ] Add built-in controls (Maybe)
+- [ ] Implement VirGL support.
+- [ ] Fix container deletion option.
+- [ ] Add built-in controls (Maybe).
 
 # Special thanks 
 Jotaros
