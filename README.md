@@ -62,15 +62,15 @@ Root is not required.
 - [ ] Add built-in controls (Maybe).
 
 # Special thanks 
-Jotaros
+<b>Jotaros</b>
 
-DragoPayras - creation of GitHub and GitLab, testing of versions, fix errors.
+<b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fix errors.
 
-Alexoqool - idea of ​​how you can add files and edit Apk.
+<b>Alexoqool</b> - idea of ​​how you can add files and edit Apk.
 
-Snap - adding a lot of DXVK and Turnips, adding Wine selection.
+<b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection.
 
-MTK Top Proc - idea of how you can add files.
+<b>MTK Top Proc</b> - idea of how you can add files.
 
 ## Third party applications
 
