@@ -12,7 +12,7 @@ English
 
 Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device.
 
-![GitHub all releases](https://img.shields.io/github/Downloads/DragoPayras228/Horizon-Emu/total)
+![GitHub all releases](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total)
 
 # Installation 
 
