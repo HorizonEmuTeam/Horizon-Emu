@@ -55,6 +55,12 @@ Root is not required.
 
 >Horizon Emu doesn't support VirGL at this moment.
 
+# Our main goals
+
+- [ ] Implement VirGL support 
+- [ ] Fix container deletion option
+- [ ] Add built-in controls
+
 # Special thanks 
 Jotaros
 
