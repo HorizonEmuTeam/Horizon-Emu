@@ -11,7 +11,6 @@ English
 
 <p align="center">
   <b>Horizon-Emu</b>
-  <br>
 </p>
 
 <p align="center">
