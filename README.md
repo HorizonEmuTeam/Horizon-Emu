@@ -8,7 +8,7 @@ English
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-<h4 align="center"><b>torzu</b>
+<h4 align="center"><b>Horizon-Emu</b>
 
 # Horizon-Emu
 
