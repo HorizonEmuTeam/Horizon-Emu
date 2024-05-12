@@ -9,7 +9,7 @@
 <b>Horizon-Emu</b>
 </p>
 
-![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
+
 
 <p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
@@ -18,6 +18,8 @@
 <p align="center">
 <b>Horizon-Emu - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.</b>
 </p>
+
+![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
 
 # Установка 
 
