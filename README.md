@@ -1,7 +1,9 @@
+<p align="center">
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
+</p>
 
 # Horizon-Emu
 
