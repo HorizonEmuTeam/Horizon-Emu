@@ -32,8 +32,8 @@ In the X11 settings tab you will be greeted with settings transferred from Termu
 
 Recommend settings: 
 
-* `Screen resolution mode:` custom
-* `Screen resolution:` 960x540
+* Screen resolution mode: custom
+* Screen resolution: 960x540
 
 Then everything is at the discretion of the user.
 
