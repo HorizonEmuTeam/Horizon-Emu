@@ -10,7 +10,6 @@ English
 </p>
 
 <p align="center">
-  <br>
   <b>Horizon-Emu</b>
   <br>
 </p>
