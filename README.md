@@ -9,8 +9,6 @@ English
 <b>Horizon-Emu</b>
 </p>
 
-![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
-
 <p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
@@ -18,6 +16,8 @@ English
 <p align="center">
 <b>Horizon-Emu is an application that allows you to run Windows x86_64 applications on your Android device.</b>
 </p>
+
+![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
 # Installation 
 
