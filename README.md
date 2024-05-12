@@ -10,7 +10,7 @@ English
 </p>
 
 <p align="center">
-  <b>ᅠHorizon-Emu</b>
+  <b>ᅠᅠHorizon-Emu</b>
 </p>
 
 <p align="center">
