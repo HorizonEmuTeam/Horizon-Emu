@@ -13,10 +13,12 @@ English
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
+<p align="center">
   <br>
   <b>Horizon-Emu</b>
   <br>
 </h1>
+</p>
 
 <p align="center">
 <b>Horizon-Emu is an application that allows you to run Windows x86_64 applications on your Android device.</b>
