@@ -9,7 +9,7 @@ English
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-<p align="center-right">
+<p align="center">
   <b>Horizon-Emu</b>
 </p>
 
