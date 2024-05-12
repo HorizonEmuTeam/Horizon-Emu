@@ -13,9 +13,13 @@ English
   <b>Horizon-Emu</b>
 </p>
 
+
 <p align="center">
+<br>
 <b>Horizon-Emu is an application that allows you to run Windows x86_64 applications on your Android device.</b>
+<br>
 </p>
+
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
