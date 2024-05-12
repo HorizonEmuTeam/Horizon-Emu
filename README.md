@@ -30,6 +30,8 @@ That's all!
 ### Settings For X11
 In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences.
 
+----
+
 Recommend settings: 
 
 * Screen resolution mode: custom
