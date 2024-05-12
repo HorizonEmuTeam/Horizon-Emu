@@ -5,7 +5,9 @@ English
 &nbsp;&nbsp;
 </p>
 
+<p align="center">
 # Horizon-Emu
+</p>
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
