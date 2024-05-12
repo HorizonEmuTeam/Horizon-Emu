@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Horizon-Emu
+<b>Horizon-Emu</b>
 </p>
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
