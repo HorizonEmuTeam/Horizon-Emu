@@ -6,10 +6,6 @@ English
 </p>
 
 <p align="center">
-<b>Horizon-Emu</b>
-</p>
-
-<p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
@@ -17,7 +13,6 @@ English
   <br>
   <b>Horizon-Emu</b>
   <br>
-</h1>
 </p>
 
 <p align="center">
