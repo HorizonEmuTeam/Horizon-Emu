@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-<b>Horizon-Emu</b>
+	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-
-
 <p align="center">
-	<img src="ProjectLogo.png" width="256" height="246" />  
+  <br>
+  <b>Horizon-Emu</b>
+  <br>
 </p>
 
 <p align="center">
