@@ -3,6 +3,8 @@ English
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
 
+# Horizon-Emu
+
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
 
