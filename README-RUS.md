@@ -10,6 +10,7 @@
 <p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
+
 <h4 align="center"><b>Horizon-Emu</b> - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.
 
 # Установка 
