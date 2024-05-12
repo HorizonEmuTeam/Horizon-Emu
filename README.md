@@ -8,11 +8,7 @@ English
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-<h4 align="center"><b>Horizon-Emu</b>
-
-# Horizon-Emu
-
-<b>Horizon Emu</b> is an application that allows you to run Windows x86_64 applications on your Android device.
+<h4 align="center"><b>Horizon-Emu</b> is an application that allows you to run Windows x86_64 applications on your Android device.
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
