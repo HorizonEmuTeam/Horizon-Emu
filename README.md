@@ -9,7 +9,9 @@ English
 Horizon-Emu
 </p>
 
+<p align="center">
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Total%20Downloads)
+</p>
 
 
 <p align="center">
