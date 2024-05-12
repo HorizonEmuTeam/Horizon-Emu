@@ -1,9 +1,13 @@
+<p align="center">
 <a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README.md">English</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 Русский
 &nbsp;&nbsp;
+</p>
 
-# Horizon-Emu
+<p align="center">
+Horizon-Emu
+</p>
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/DragoPayras228/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
 
