@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<b>Horizon-Emu</b>
+**Horizon-Emu**
 </p>
 
 
