@@ -95,7 +95,7 @@ Root is not required.
 
 [DragoPayras Channel](https://t.me/DragOS_Channel)
 
-[Alexandro Channel](https://t.me/WinlatorRus)
+[Alexoqool Channel](https://t.me/WinlatorRus)
 
 ## Third party applications
 
