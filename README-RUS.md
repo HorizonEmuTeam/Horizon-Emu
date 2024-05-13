@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/DragoPayras228/Horizon-Emu/blob/main/README.md">English</a>
+<a href="https://github.com/HorizonEmuTeam/Horizon-Emu/blob/main/README.md">English</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 Русский
 &nbsp;&nbsp;
