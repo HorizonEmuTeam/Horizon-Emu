@@ -89,17 +89,17 @@ Root is not required.
 
 ## Telegram Channels to find out information about the development
 
-.[Snap Channel (one of the main developers)]
-.(https://t.me/MoboxWinlatorExagear)
+[Snap Channel (one of the main developers)]
+(https://t.me/MoboxWinlatorExagear)
 
-.[Horizon Emu (first information and tests)]
-.(https://t.me/HorizonEmuOfficial)
+[Horizon Emu (first information and tests)]
+(https://t.me/HorizonEmuOfficial)
 
-.[DragoPayras Channel]
-.(https://t.me/DragOS_Channel)
+[DragoPayras Channel]
+(https://t.me/DragOS_Channel)
 
-.[Alexandro Channel]
-.(https://t.me/WinlatorRus)
+[Alexandro Channel]
+(https://t.me/WinlatorRus)
 
 ## Third party applications
 
