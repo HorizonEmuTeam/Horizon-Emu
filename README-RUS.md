@@ -76,13 +76,6 @@ Root права не требуются.
 - [ ] Исправить опцию удаления контейнера.
 - [ ] Добавить встроенное управление (Может быть).
 
-# Telegram-каналы, в которых можно узнать информацию о разработке
-
-[Канал Snap`а (Одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
-[Horizon Emu (Первая информация и тесты)](https://t.me/HorizonEmuOfficial)
-[Канал DragoPayras](https://t.me/DragOS_Channel)
-[Канал Alexoqool](https://t.me/WinlatorRus)
-
 # Отдельная благодарность
 <b>Jotaros</b>
 
@@ -93,6 +86,17 @@ Root права не требуются.
 <b>Snap</b> - добавление большого количества DXVK и Turnip, добавление нормального выбора Wine.
 
 <b>MTK Top Proc</b> - представление о том, как можно добавлять файлы.
+
+# Telegram-каналы, в которых можно узнать информацию о разработке
+
+[Канал Snap`а (Одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
+
+[Horizon Emu (Первая информация и тесты)](https://t.me/HorizonEmuOfficial)
+
+[Канал DragoPayras](https://t.me/DragOS_Channel)
+
+[Канал Alexoqool](https://t.me/WinlatorRus)
+
 
 ## Сторонние приложения
 
