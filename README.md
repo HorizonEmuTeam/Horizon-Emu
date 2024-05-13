@@ -87,6 +87,10 @@ Root is not required.
 
 <b>MTK Top Proc</b> - idea of how you can add files.
 
+## Telegram Channels to find out information about the development
+
+Snap Channel (one of the main developers): 
+
 ## Third party applications
 
 [Wine](https://wiki.winehq.org/Licensing)
