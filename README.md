@@ -71,10 +71,6 @@ Root is not required.
 
 >Horizon Emu doesn't support VirGL at this moment.
 
-* Incorrect temperature counter
-
->Shows the temperature is too high, but in reality it is lower
-
 # Our main goals
 
 - [ ] Implement VirGL support.
