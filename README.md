@@ -73,7 +73,7 @@ Root is not required.
 # Our main goals
 
 - [ ] Implement VirGL support.
-- [*] Fix container deletion option.
+- [x] Fix container deletion option.
 - [ ] Add built-in controls (Maybe).
 
 # Special thanks 
