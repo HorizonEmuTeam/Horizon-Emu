@@ -64,10 +64,7 @@ Adreno 610, and any other GPU that supports Turnip. CPU with aarch64.
 * Root:
 Root is not required.
 
-# Issues in beta 0.8
-* Removing a container.
-
->When deleting a container using the delete container button, the directory of drive D is also deleted, that is, in our case, the download folder. At the same time, the data of the application itself is cleared. ([Normal way to delete a container](https://t.me/HorizonEmuOfficial/434)).
+# Issues in release 1.0
 
 * Lack of VirGL support.
 
@@ -76,7 +73,7 @@ Root is not required.
 # Our main goals
 
 - [ ] Implement VirGL support.
-- [ ] Fix container deletion option.
+- [*] Fix container deletion option.
 - [ ] Add built-in controls (Maybe).
 
 # Special thanks 
