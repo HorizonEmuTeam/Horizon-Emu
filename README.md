@@ -84,7 +84,7 @@ Root is not required.
 
 <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection.
 
-<b>MTK Top Proc</b> - idea of how you can add files.
+<b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
 
 ## Telegram Channels to find out information about the development
 
