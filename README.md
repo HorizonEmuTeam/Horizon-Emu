@@ -65,8 +65,6 @@ Adreno 610, and any other GPU that supports Turnip. CPU with aarch64.
 Root is not required.
 
 # Issues in release 1.0
-* Container Deleting (Corrected)
-
 * Lack of VirGL support.
 
 >Horizon Emu doesn't support VirGL at this moment.
