@@ -17,8 +17,6 @@ Important: Horizon-Emu doesn't contain any viruses. All videos with info about v
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
-Важно: Horizon-Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда.
-
 # Installation 
 
 1. Go to [Releases tab](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), open latest release, download an Apk file and install it.
