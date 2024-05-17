@@ -15,6 +15,8 @@ English
 
 Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake.
 
+![GitHub Release](https://img.shields.io/github/v/release/Lime3DS/Lime3DS?label=Latest%20Version)
+
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
 # Installation 
