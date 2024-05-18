@@ -15,7 +15,7 @@ English
 
 Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake.
 
-![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu/totallogo=github=?label=Latest%20Version)
+![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu/totallogo=github=label=Latest%20Version)
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
