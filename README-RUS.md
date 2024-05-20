@@ -13,7 +13,7 @@
 <b>Horizon-Emu</b> - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.
 </p>
 
-Важно: Horizon-Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда.
+Важно: Horizon-Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда. Это связано с тем, что приложение не содержит оригинальной подписи в Android Studio
 
 ![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Последняя%20версия)
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
