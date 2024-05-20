@@ -87,6 +87,9 @@ Root is not required.
 
 <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
 
+## Development assistance
+If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884
+
 ## Telegram Channels to find out information about the development
 
 [Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
