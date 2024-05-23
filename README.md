@@ -22,8 +22,6 @@ English
     <strong>Horizon-Emu is an application that allows you to run Windows x86_64 applications on your Android device.</strong>
   </p>
 
-----
-
 <strong>Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.</strong>
 
 ----
