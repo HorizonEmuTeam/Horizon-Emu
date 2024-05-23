@@ -12,7 +12,9 @@ English
 ![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Latest%20Version)
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
-	<img src="ProjectLogo.png" width="256" height="246" />  
+<p align="center"
+	<img src="ProjectLogo.png" width="256" height="246" />
+</p>
 
   <h1 align="center">Horizon-Emu</h1>
 
