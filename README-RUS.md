@@ -12,10 +12,13 @@
 ![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Latest%20Version)
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
+<p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-    <strong>Horizon-Emu - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.</strong>
+<p align="center"¿
+<strong>Horizon-Emu - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.</strong>
+</p>
 
 ----
 
