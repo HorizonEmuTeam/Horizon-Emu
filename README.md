@@ -7,8 +7,6 @@ English
 &nbsp;&nbsp;
 </p>
 
-----
-
 <div align="center">
 
 ![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Latest%20Version)
