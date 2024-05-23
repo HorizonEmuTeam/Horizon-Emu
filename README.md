@@ -1,9 +1,13 @@
+----
+
 <p align="center">
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/HorizonEmuTeam/Horizon-Emu/blob/main/README-RUS.md">Русский</a>
 &nbsp;&nbsp;
 </p>
+
+----
 
 <div align="center">
 
