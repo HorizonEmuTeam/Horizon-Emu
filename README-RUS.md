@@ -5,18 +5,25 @@
 &nbsp;&nbsp;
 </p>
 
-<p align="center">
+<br>
+
+<div align="center">
+
+![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Latest%20Version)
+![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
+
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-<p align="center">
-<b>Horizon-Emu</b> - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.
-</p>
+    <strong>Horizon-Emu - это приложение, которое позволяет вам запускать приложения созданные для Windows x86_64 на вашем Android устройстве.</strong>
 
-Важно: Horizon-Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда. Это связано с тем, что приложение не содержит оригинальной подписи в Android Studio
+----
 
-![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Последняя%20версия)
-![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Кол-во%20скачиваний)
+Важно: Horizon-Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда. Это связано с тем, что приложение не содержит оригинальной подписи в Android Studio.
+
+----
+
+</div>
 
 # Установка 
 
