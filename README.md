@@ -24,7 +24,7 @@ English
 
 ----
 
-Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.
+<strong>Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.</strong>
 
 ----
 
