@@ -102,13 +102,10 @@ If you know about the change of resources in Apk and want to help in development
 
 ## Telegram Channels to find out information about the development
 
-[Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
-
-[Horizon Emu (first information and tests)](https://t.me/HorizonEmuOfficial)
-
-[DragoPayras' Channel](https://t.me/DragOS_Channel)
-
-[Alexoqool's Channel](https://t.me/WinlatorRus)
+* [Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
+* [Horizon Emu (first information and tests)](https://t.me/HorizonEmuOfficial)
+* [DragoPayras' Channel](https://t.me/DragOS_Channel)
+* [Alexoqool's Channel](https://t.me/WinlatorRus)
 
 ## Third party applications
 
