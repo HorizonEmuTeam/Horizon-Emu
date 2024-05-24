@@ -102,13 +102,10 @@ Root права не требуются.
 
 # Telegram-каналы, в которых можно узнать информацию о разработке
 
-[Канал Snap`а (одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
-
-[Horizon Emu (первая информация и тесты)](https://t.me/HorizonEmuOfficial)
-
-[Канал DragoPayras](https://t.me/DragOS_Channel)
-
-[Канал Alexoqool](https://t.me/WinlatorRus)
+* [Канал Snap`а (одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
+* [Horizon Emu (первая информация и тесты)](https://t.me/HorizonEmuOfficial)
+* [Канал DragoPayras](https://t.me/DragOS_Channel)
+* [Канал Alexoqool](https://t.me/WinlatorRus)
 
 
 ## Сторонние приложения
