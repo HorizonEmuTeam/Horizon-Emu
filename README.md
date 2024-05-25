@@ -13,7 +13,7 @@ English
 ![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
 
 <p align="center">
-	<img src="ProjectLogo.png" width="256" height="246" />
+	<img src="ProjectLogo.png" width="276" height="266" />
 </p>
 
   <h1 align="center">Horizon-Emu</h1>
