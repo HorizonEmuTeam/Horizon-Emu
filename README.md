@@ -39,7 +39,9 @@ English
 * Vkd3d driver: 2.12fix
 * D8vk driver: 1.0
 * Directx dlls: native
-And click `Done'
+
+Then click `Done`
+
 4. Run container by clicking on shortcut named `FileManager`.
 5. For on-screen controls use application called InputBridge. To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubusercontent.com/HorizonEmuTeam/Horizon-Emu/main/InputBridge_v0.1.9.9.apk), open an application called `InputBridge` and provide all requested permissions, then press `Import` and select file of your controls profile (in .ibp format).
 In container, InputBridge will be launched automatically.
