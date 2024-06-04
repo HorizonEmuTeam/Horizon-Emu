@@ -63,7 +63,7 @@ Then everything is at the discretion of the user.
 
 ### Dynarec and other emulator's settings
 moved to environment configuration (Settings - Environment settings), everything must be configured manually. 
-(Default preset is suitable for most programs) 
+(Default preset is suitable for most programs).
 
 ----
 
