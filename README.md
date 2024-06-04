@@ -62,7 +62,8 @@ Then everything is at the discretion of the user.
 ----
 
 ### Dynarec and other emulator's settings
-Moved to environment configuration, works in manual format.
+Moved to environment configuration, works in manual format. 
+(Default preset is suitable for most programs) 
 
 ----
 
