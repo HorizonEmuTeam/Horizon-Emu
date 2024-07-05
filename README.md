@@ -130,6 +130,7 @@ If you know about the change of resources in Apk and want to help in development
 * [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
 * [VKD3D](https://github.com/lutris/vkd3d)
 * [D8VK](https://github.com/AlpyneDreams/d8vk)
+* [MangoHud](https://github.com/flightlessmango/MangoHud)
 * [Termux](https://github.com/termux/termux-app)
 * [Termux-X11](https://github.com/termux/termux-x11)
 * [Mesa](https://docs.mesa3d.org/license.html)
