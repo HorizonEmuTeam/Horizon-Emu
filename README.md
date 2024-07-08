@@ -36,8 +36,8 @@ English
 
 * Box64: 24.04.2024
 * DXVK driver: async-1.10.3
-* Turnip driver: v6.5
-* Vkd3d driver: 2.12fix
+* Turnip driver: v6.5, v8 or v9
+* Vkd3d driver: 2.13
 * D8vk driver: 1.0
 * Directx dlls: native
 
