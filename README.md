@@ -16,15 +16,15 @@ English
 	<img src="ProjectLogo.png" width="256" height="246" />
 </p>
 
-  <h1 align="center">Horizon-Emu</h1>
+  <h1 align="center">Horizon Emu</h1>
 
   <p align="center">
-    <strong>Horizon-Emu is an application that allows you to run Windows x86_64 applications on your Android device.</strong>
+    <strong>Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device.</strong>
   </p>
 
-<strong>Important: Horizon-Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.</strong>
+<strong>Important: Horizon Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.</strong>
 
-<strong>Important 2: There is [fake Horizon-Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. We ask you to submit a complaint about this application, because this person at least distributes a free application for ~8$. Also Horizon-Emu will never be published in Google Play Store.</strong>
+<strong>Important 2: There is [fake Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. We ask you to submit a complaint about this application, because this person at least distributes a free application for ~8$. Also Horizon Emu will never be published in Google Play Store.</strong>
 
 ----
 
