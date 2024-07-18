@@ -106,9 +106,11 @@ Root is not required.
 
 <b>Alexoqool</b> - idea of ​​how you can add files and edit Apk.
 
-<b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection.
+<b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection. Compilation Wine
 
 <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
+
+<b>Darum</b> - for the compilation of box with AVX
 
 ## Development assistance
 If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks 
