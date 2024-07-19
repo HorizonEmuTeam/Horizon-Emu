@@ -16,7 +16,7 @@
 	<img src="ProjectLogo.png" width="256" height="246" />  
 </p>
 
-<h1 align="center">Horizon-Emu</h1>
+<h1 align="center">Horizon Emu</h1>
 
 <p align="center">
 <strong>Horizon Emu - это приложение, которое позволяет вам запускать программы созданные для Windows x86_64 на вашем Android устройстве.</strong>
