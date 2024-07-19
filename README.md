@@ -83,10 +83,10 @@ Android console emulator, can use commands like cd, tar, etc.
 ## System Requirements
 
 ```
-* Minimum Required Android Version: Android 9.
-* Minimum GPU and CPU:
+Minimum Required Android Version: Android 9.
+Minimum GPU and CPU:
 Adreno 610, and any other GPU that supports Turnip. CPU with aarch64.
-* Root:
+Root:
 Root is not required.
 ```
 
