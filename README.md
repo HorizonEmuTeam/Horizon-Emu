@@ -100,13 +100,12 @@ Root is not required.
 - [ ] Add built-in controls (Maybe).
 
 # Special thanks 
-<b>Jotaros</b>
-
-<b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors.
-<b>Alexoqool</b> - idea of ​​how you can add files and edit .apk.
-<b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
-<b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
-<b>Darum</b> - compilation of Box64 with AVX
+* <b>Jotaros</b>
+* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors.
+* <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk.
+* <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
+* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
+* <b>Darum</b> - compilation of Box64 with AVX
 
 ## Development assistance
 If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks 
