@@ -33,7 +33,7 @@ English
 # Installation 
 
 1. Go to [Releases tab](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), open latest release, download an Apk file and install it.
-2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all`, then select scripts version that you need, and in this tab also download Wine version that you want.
+2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all`, and if you need, install Scripts CPU Topology instead of the regular version of Scripts, and in this tab also download Wine version that you want.
 3. Open `Containers` tab, click on `Create a new container`, select name for your container, press `Confirm`, then select settings that are described down (but remember that some applications may require other settings).
 
 * Box64: 24.04.2024
