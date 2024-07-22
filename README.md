@@ -108,7 +108,7 @@ Root: Root is not required.
 * <b>Darum</b> - compilation of Box64 with AVX.
 
 ## Development assistance
-If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks 
+If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks.
 
 ## Telegram Channels to find out information about the development
 
