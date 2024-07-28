@@ -42,9 +42,9 @@ To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubuse
 In container, InputBridge will be launched automatically
 
 # Configuration
-* Settings For X11
+* Settings for X11
 
-In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences
+In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences, there you can change resolution, configure mouse speed, etc
 * Dynarec settings
 
 They have been moved to environment configuration (Settings - Environment settings), everything must be configured manually
