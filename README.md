@@ -43,8 +43,10 @@ In container, InputBridge will be launched automatically
 
 # Configuration
 * Settings For X11
+
 In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences
 * Dynarec settings
+
 They have been moved to environment configuration (Settings - Environment settings), everything must be configured manually
 
 # System Requirements
