@@ -19,12 +19,12 @@ English
   <h1 align="center">Horizon Emu</h1>
 
   <p align="center">
-    <strong>Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device.</strong>
+    <strong>Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device</strong>
   </p>
 
-<strong>Important: Horizon Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature.</strong>
+<strong>Important: Horizon Emu doesn't contain any viruses. All videos with info about viruses in Horizon-Emu are fake. All findings in virustotal are due to the fact that there is no application signature</strong>
 
-<strong>Important 2: There is [fake Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. We ask you to submit a complaint about this application, because this person at least distributes a free application for ~8$. Also Horizon Emu will never be published in Google Play Store.</strong>
+<strong>Important 2: There is [fake Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. We ask you to submit a complaint about this application, because this person at least distributes a free application for ~8$. Also Horizon Emu will never be published in Google Play Store</strong>
 
 ----
 
@@ -32,83 +32,45 @@ English
 
 # Installation 
 
-1. Go to [Releases tab](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), open latest release, download an Apk file and install it.
-2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all`, and if you need, install Scripts CPU Topology instead of the regular version of Scripts, and in this tab also download Wine version that you want.
-3. Open `Containers` tab, click on `Create a new container`, select name for your container, press `Confirm`, then select settings that are described down (but remember that some applications may require other settings).
+1. Go to [Releases tab](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), open latest release, download an Apk file and install it
+2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all`, and if you need, install Scripts CPU Topology instead of the regular version of Scripts, and in this tab also download Wine version that you want
+3. Open `Containers` tab, click on `Create a new container`, select name for your container, and click `Confirm`
+To run container click on shortcut named `FileManager`
 
-* Box64: 24.04.2024
-* DXVK driver: async-1.10.3
-* Turnip driver: v6.5, v8 or v9
-* Vkd3d driver: 2.13
-* D8vk driver: 1.0
-* Directx dlls: native
-
-Then click `Done`.
-
-4. Run container by clicking on shortcut named `FileManager`.
-5. For on-screen controls use application called InputBridge. To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubusercontent.com/HorizonEmuTeam/Horizon-Emu/main/InputBridge_v0.1.9.9.apk), open an application called `InputBridge` and provide all requested permissions, then press `Import` and select file of your controls profile (in .ibp format).
-In container, InputBridge will be launched automatically.
-
-That's all!
+For on-screen controls use application called InputBridge
+To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubusercontent.com/HorizonEmuTeam/Horizon-Emu/main/InputBridge_v0.1.9.9.apk), open an application called `InputBridge` and provide all requested permissions, then press `Import` and select file of your controls profile (in .ibp format).
+In container, InputBridge will be launched automatically
 
 # Configuration
-### Settings For X11
-In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences.
+* Settings For X11
+In the X11 settings tab you will be greeted with settings transferred from Termux-X11 Preferences
+* Dynarec settings
+They have been moved to environment configuration (Settings - Environment settings), everything must be configured manually
 
-Recommend settings: 
-
-* Screen resolution mode: custom
-* Screen resolution: 960x540
-
-Then everything is at the discretion of the user.
-
-----
-
-### Dynarec and other emulator's settings
-moved to environment configuration (Settings - Environment settings), everything must be configured manually. 
-(Default preset is suitable for most programs).
-
-----
-
-### Launch script output
-You can check the operation of the container, and so on.
-
-----
-
-### Terminal
-Android console emulator, can use commands like cd, tar, etc.
-
-----
-
-## System Requirements
+# System Requirements
 
 ```
-Minimum Required Android Version: Android 9.
-Minimum GPU and CPU: Adreno 610, and any other GPU that supports Turnip. CPU with aarch64.
-Root: Root is not required.
+Required OS: Android 9
+Required GPU and CPU: Adreno 610, and any other GPU that supports Turnip. CPU with aarch64
+Root: Root is not required
 ```
-
-# Issues in version 1.0
-* Lack of VirGL support.
-
->Horizon Emu doesn't support VirGL at this moment.
 
 # Our main goals
 
-- [ ] Implement VirGL support.
-- [x] Fix container deletion option.
-- [ ] Add built-in controls (Maybe).
+- [ ] Implement VirGL support
+- [x] Fix container deletion option
+- [ ] Add built-in controls (Maybe)
 
 # Special thanks 
 * <b>Jotaros</b>
-* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors.
-* <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk.
-* <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine.
-* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option.
-* <b>Darum</b> - compilation of Box64 with AVX.
+* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors
+* <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk
+* <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
+* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option
+* <b>Darum</b> - compilation of Box64 with AVX
 
 ## Development assistance
-If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks.
+If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks
 
 ## Telegram Channels to find out information about the development
 
