@@ -70,7 +70,7 @@ Root: Root is not required
 * <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors, creating an application page in RuStore.
 * <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk
 * <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
-* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option
+* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option, assistance in editing .apk to create a page in RuStore.
 * <b>Darum</b> - compilation of Box64 with AVX
 
 ## Development assistance
