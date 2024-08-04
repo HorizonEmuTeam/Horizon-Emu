@@ -67,7 +67,7 @@ Root: Root is not required
 
 # Special thanks 
 * <b>Jotaros</b>
-* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors
+* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors, creating an application page in RuStore.
 * <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk
 * <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
 * <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option
