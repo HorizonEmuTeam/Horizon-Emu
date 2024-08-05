@@ -93,7 +93,7 @@ Root: Root права не требуются
 * [DXVK](https://github.com/doitsujin/dxvk)
 * [DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
 * [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
-* [VKD3D](https://github.com/HansKristian-Work/vkd3d-proton)
+* [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
 * [VKD3D (lutris)](https://github.com/lutris/vkd3d)
 * [D8VK](https://github.com/AlpyneDreams/d8vk)
 * [MangoHud](https://github.com/flightlessmango/MangoHud)
