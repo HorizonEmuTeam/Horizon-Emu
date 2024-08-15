@@ -22,9 +22,7 @@
 <strong>Horizon Emu - это приложение, которое позволяет вам запускать программы созданные для Windows x86_64 на вашем Android устройстве</strong>
 </p>
 
-<strong>Важно: Horizon Emu не содержит никаких вирусов. Все видео с информацией о том, что Horizon-Emu содержит какие либо вирусы - неправда. Это связано с тем, что приложение не содержит оригинальной подписи в Android Studio</strong>
-
-<strong>Важно 2: Недавно в Google Play Store появилось [фейковое приложение Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz). Мы просим вас отправить жалобу на это приложение, т.к. этот человек как минимум распространяет бесплатное приложение за 690 рублей. Также Horizon-Emu никогда не будет выпущен в Google Play Store</strong>
+<strong>Важно 2: Недавно в Google Play Store появилось [фейковое приложение Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz). Мы просим вас отправить жалобу на это приложение, т.к. это приложение неофициальное и платное. Спасибо</strong>
 
 ----
 
@@ -32,7 +30,7 @@
 
 # Установка 
 
-1. Перейдите во вкладку [Releases](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), откройте последний релиз, скачайте оттуда .apk и установите его или [скачайте из RuStore](https://apps.rustore.ru/app/com.antutu.ABenchMark)
+1. Перейдите во вкладку [Releases](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), откройте последний релиз, скачайте оттуда .apk и установите его, или [скачайте из RuStore](https://apps.rustore.ru/app/com.antutu.ABenchMark)
 2. Откройте приложение `Horizon Emu`, предоставьте все требуемые разрешения, перейдите во вкладку `Загрузки` и нажмите на `Обновить все`, и если Вам понадобится, то установите Scripts CPU Topologyза место обычной версии Scripts, в этой же вкладке скачайте желаемую версию Wine
 3. Откройте вкладку `Контейнеры`, нажмите на `Создать новый контейнер`, выберите имя для своего контейнера нажмите `Подтвердить`
 
