@@ -61,41 +61,34 @@ Root: Root is not required
 
 - [ ] Implement VirGL support
 - [x] Fix container deletion option
-- [ ] Add built-in controls (Maybe)
+- [ ] Add built-in controls
 
-# Special thanks 
-* <b>Jotaros</b>
-* <b>DragoPayras</b> - creation of GitHub and GitLab, testing of versions, fixing errors, creating an application page in RuStore.
-* <b>Alexoqool</b> - idea of ​​how you can add files and edit .apk
-* <b>Snap</b> - adding a lot of DXVK and Turnips, adding Wine selection, compiling Wine
-* <b>MTK Top Proc</b> - idea of how you can add files, fixing container deletion option, assistance in editing .apk to create a page in RuStore.
-* <b>Darum</b> - compilation of Box64 with AVX
+# Special thanks
+Special thanks to all people that helped to maintain this project and making such many improvements (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
 
 ## Development assistance
-If you know about the change of resources in Apk and want to help in development, write to Telegram: @jotaros884. Thanks
+If you know about the change of resources in .apk and want to help in development, write to Telegram: @jotaros884. Thanks
 
 ## Telegram Channels to find out information about the development
 
-* [Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
-* [Horizon Emu (first information and tests)](https://t.me/HorizonEmuOfficial)
-* [DragoPayras' Channel](https://t.me/DragOS_Channel)
-* [Alexoqool's Channel](https://t.me/WinlatorRus)
+[Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
+[Horizon Emu (first information and tests)](https://t.me/HorizonEmuOfficial)
+[DragoPayras' Channel](https://t.me/DragOS_Channel)
+[Alexoqool's Channel](https://t.me/WinlatorRus)
 
 ## Third party applications
 
-* [Wine](https://wiki.winehq.org/Licensing)
-* [Box86](https://github.com/ptitSeb/box86)
-* [Box64](https://github.com/ptitSeb/box64)
-* [glibc-packages](https://github.com/termux-pacman/glibc-packages)
-* [Mobox](https://github.com/olegos2/mobox)
-* [DXVK](https://github.com/doitsujin/dxvk)
-* [DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
-* [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
-* [D8VK](https://github.com/AlpyneDreams/d8vk)
-* [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
-* [VKD3D (lutris)](https://github.com/lutris/vkd3d)
-* [MangoHud](https://github.com/flightlessmango/MangoHud)
-* [Termux](https://github.com/termux/termux-app)
-* [Termux-X11](https://github.com/termux/termux-x11)
-* [Mesa](https://docs.mesa3d.org/license.html)
-* [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+[Wine](https://wiki.winehq.org/Licensing)
+[Box86](https://github.com/ptitSeb/box86)
+[Box64](https://github.com/ptitSeb/box64)
+[glibc-packages](https://github.com/termux-pacman/glibc-packages)
+[Mobox](https://github.com/olegos2/mobox)
+[DXVK](https://github.com/doitsujin/dxvk)
+[DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
+[DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
+[D8VK](https://github.com/AlpyneDreams/d8vk) [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
+[VKD3D (lutris)](https://github.com/lutris/vkd3d)
+[MangoHud](https://github.com/flightlessmango/MangoHud)
+[Termux](https://github.com/termux/termux-app)
+[Termux-X11](https://github.com/termux/termux-x11)
+[Mesa](https://docs.mesa3d.org/license.html) [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
