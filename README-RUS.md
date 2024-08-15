@@ -65,39 +65,49 @@ Root: Root права не требуются
 - [ ] Добавить встроенное управление
 
 # Особая благодарность
-* <b>Jotaros</b>
-* <b>DragoPayras</b> - создание GitHub и GitLab, тестирование версий, исправление ошибок, создание страницы в RuStore.
-* <b>Alexoqool</b> - представление о том, как можно добавлять файлы и редактировать .apk
-* <b>Snap</b> - добавление большого количества DXVK и Turnip, добавление нормального выбора Wine, компиляция новых версий Wine
-* <b>MTK Top Proc</b> - представление о том, как можно добавлять файлы, исправление опции удаления контейнера, помощь в редактировании .apk для создания страницы в RuStore.
-* <b>Darum</b> - компиляция Box64 с поддержкой AVX
+
+От всего сердца благодарим всех тех людей, которые участвовали в разработке этого проекта, и которые внесли множество изменений (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
 
 ## Помощь в развитии 
 Если вы знаете как изменять ресурсы Apk и хотите помочь в развитии, то, пожалуйста, напишите на Telegram: @jotaros884. Заранее спасибо
 
-# Telegram-каналы, в которых можно узнать информацию о разработке
+## Telegram-каналы, в которых можно узнать информацию о разработке
 
-* [Канал Snap`а (одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
-* [Horizon Emu (первая информация и тесты)](https://t.me/HorizonEmuOfficial)
-* [Канал DragoPayras](https://t.me/DragOS_Channel)
-* [Канал Alexoqool](https://t.me/WinlatorRus)
+[Horizon Emu (первая информация и тесты)](https://t.me/HorizonEmuOfficial)
 
+[Канал Snap`а (одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
 
-## Сторонние приложения
+[Канал DragoPayras](https://t.me/DragOS_Channel)
 
-* [Wine](https://wiki.winehq.org/Licensing)
-* [Box86](https://github.com/ptitSeb/box86)
-* [Box64](https://github.com/ptitSeb/box64)
-* [glibc-packages](https://github.com/termux-pacman/glibc-packages)
-* [Mobox](https://github.com/olegos2/mobox)
-* [DXVK](https://github.com/doitsujin/dxvk)
-* [DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
-* [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
-* [D8VK](https://github.com/AlpyneDreams/d8vk)
-* [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
-* [VKD3D (lutris)](https://github.com/lutris/vkd3d)
-* [MangoHud](https://github.com/flightlessmango/MangoHud)
-* [Termux](https://github.com/termux/termux-app)
-* [Termux-X11](https://github.com/termux/termux-x11)
-* [Mesa](https://docs.mesa3d.org/license.html)
-* [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+[Канал Alexoqool](https://t.me/WinlatorRus)
+
+# Сторонние приложения
+
+[Wine](https://wiki.winehq.org/Licensing)
+
+[Box86](https://github.com/ptitSeb/box86)
+
+[Box64](https://github.com/ptitSeb/box64)
+ [glibc-packages](https://github.com/termux-pacman/glibc-packages)
+
+[Mobox](https://github.com/olegos2/mobox)
+
+[DXVK](https://github.com/doitsujin/dxvk)
+
+[DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
+
+[DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
+
+[D8VK](https://github.com/AlpyneDreams/d8vk)
+ [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
+
+[VKD3D (lutris)](https://github.com/lutris/vkd3d)
+
+[MangoHud](https://github.com/flightlessmango/MangoHud)
+
+[Termux](https://github.com/termux/termux-app)
+
+[Termux-X11](https://github.com/termux/termux-x11)
+
+[Mesa](https://docs.mesa3d.org/license.html)
+ [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
