@@ -32,7 +32,7 @@
 
 # Установка 
 
-1. А) Перейдите во вкладку [Releases](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), откройте последний релиз, скачайте оттуда .apk и установите его или [скачайте из RuStore](https://apps.rustore.ru/app/com.antutu.ABenchMark)
+1. Перейдите во вкладку [Releases](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), откройте последний релиз, скачайте оттуда .apk и установите его или [скачайте из RuStore](https://apps.rustore.ru/app/com.antutu.ABenchMark)
 2. Откройте приложение `Horizon Emu`, предоставьте все требуемые разрешения, перейдите во вкладку `Загрузки` и нажмите на `Обновить все`, и если Вам понадобится, то установите Scripts CPU Topologyза место обычной версии Scripts, в этой же вкладке скачайте желаемую версию Wine
 3. Откройте вкладку `Контейнеры`, нажмите на `Создать новый контейнер`, выберите имя для своего контейнера нажмите `Подтвердить`
 
