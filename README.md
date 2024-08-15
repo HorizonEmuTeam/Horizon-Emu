@@ -53,9 +53,9 @@ They have been moved to environment configuration (Settings - Environment settin
 # System Requirements
 
 ```
-Required OS: Android 9
-Required GPU: Adreno 610, and any other that supports Turnip
-Required CPU: Any CPU with aarch64
+Operating System: Android 9
+GPU: Any GPU with Turnip support
+CPU: Any CPU with aarch64
 Root: Root is not required
 ```
 
