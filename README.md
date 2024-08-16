@@ -79,7 +79,7 @@ If you know about the change of resources in .apk and want to help in developmen
 
 [Alexoqool's Channel](https://t.me/WinlatorRus)
 
-## Third party applications
+# Third party applications
 
 [Wine](https://wiki.winehq.org/Licensing)
 
