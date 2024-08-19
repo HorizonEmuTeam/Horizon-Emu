@@ -22,7 +22,7 @@
 <strong>Horizon Emu - это приложение, которое позволяет вам запускать программы созданные для Windows x86_64 на вашем Android устройстве</strong>
 </p>
 
-<strong>Важно: Недавно в Google Play Store появилось [фейковое приложение Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz). Мы просим вас отправить жалобу на это приложение, т.к. это фейковое и платное приложение. Спасибо</strong>
+<strong>Важно: Недавно в Google Play Store появилось [фейковое приложение Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz). Мы просим вас отправить жалобу на это приложение, т.к. оно фейковое, платное, и возможно содержит вирусы. Спасибо</strong>
 
 ----
 
