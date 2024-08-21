@@ -100,6 +100,7 @@ Root: Root права не требуются
 [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
+
  [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
 
 [VKD3D (lutris)](https://github.com/lutris/vkd3d)
