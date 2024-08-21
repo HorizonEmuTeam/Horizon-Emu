@@ -112,4 +112,5 @@ Root: Root права не требуются
 [Termux-X11](https://github.com/termux/termux-x11)
 
 [Mesa](https://docs.mesa3d.org/license.html)
+
  [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
