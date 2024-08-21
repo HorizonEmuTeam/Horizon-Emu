@@ -98,6 +98,7 @@ If you know about the change of resources in .apk and want to help in developmen
 [DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
+
  [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
 
 [VKD3D (lutris)](https://github.com/lutris/vkd3d)
@@ -109,4 +110,5 @@ If you know about the change of resources in .apk and want to help in developmen
 [Termux-X11](https://github.com/termux/termux-x11)
 
 [Mesa](https://docs.mesa3d.org/license.html)
+
  [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
