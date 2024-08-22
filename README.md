@@ -52,8 +52,8 @@ They have been moved to environment configuration (Settings - Environment settin
 
 ```
 Operating System: Android 9
-GPU: Any GPU with Turnip support
 CPU: Any CPU with aarch64
+GPU: Any GPU with Turnip support
 Root: Root is not required
 ```
 
