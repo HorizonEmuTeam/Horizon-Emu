@@ -101,7 +101,7 @@ Root: Root права не требуются
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
 
- [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
+[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
 
 [VKD3D (lutris)](https://github.com/lutris/vkd3d)
 
@@ -113,4 +113,4 @@ Root: Root права не требуются
 
 [Mesa](https://docs.mesa3d.org/license.html)
 
- [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+[mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
