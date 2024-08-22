@@ -99,7 +99,7 @@ If you know about the change of resources in .apk and want to help in developmen
 
 [D8VK](https://github.com/AlpyneDreams/d8vk)
 
- [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
+[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton)
 
 [VKD3D (lutris)](https://github.com/lutris/vkd3d)
 
