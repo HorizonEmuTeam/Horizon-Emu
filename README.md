@@ -111,4 +111,4 @@ If you know about the change of resources in .apk and want to help in developmen
 
 [Mesa](https://docs.mesa3d.org/license.html)
 
- [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+[mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
