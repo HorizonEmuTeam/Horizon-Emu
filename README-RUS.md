@@ -89,7 +89,7 @@ Root: Root права не требуются
 
 [Box64](https://github.com/ptitSeb/box64)
 
- [glibc-packages](https://github.com/termux-pacman/glibc-packages)
+[glibc-packages](https://github.com/termux-pacman/glibc-packages)
 
 [Mobox](https://github.com/olegos2/mobox)
 
