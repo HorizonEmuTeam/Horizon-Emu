@@ -101,4 +101,4 @@ If you know about the change of resources in .apk and want to help in developmen
 
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
 
-Also many thanks to all people aho helped to maintain this project and making such many improvements (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
+Also many thanks to all people who helped to maintain this project and making such many improvements (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
