@@ -1,4 +1,90 @@
 ----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knight Legends - Rizwan</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1e1e2f;
+            color: #ffffff;
+            background-image: url('https://static.wikia.nocookie.net/sololeveling/images/5/50/Solo_Leveling_Key_Visual.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+            color: #ffcc00;
+        }
+        header p {
+            font-size: 1.2em;
+            color: #ffcc00;
+        }
+        .content {
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.7);
+            margin: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #ffcc00;
+            font-size: 2em;
+            border-bottom: 2px solid #ffcc00;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.7);
+            margin-top: 30px;
+            color: #ffcc00;
+            font-size: 1em;
+        }
+        .footer a {
+            color: #ffcc00;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Knight Legends</h1>
+    <p>Welcome to Rizwan's Gaming Realm</p>
+</header>
+
+<div class="content">
+    <h2>About Knight Legends</h2>
+    <p>Welcome to Knight Legends, where gaming meets the intensity and thrill of Solo Leveling. Whether you're a casual player or a competitive gamer, this is the place for you to explore game strategies, reviews, and tips that could help you level up your game.</p>
+</div>
+
+<div class="content">
+    <h2>Gaming Information</h2>
+    <p>Stay tuned for the latest updates on your favorite games, detailed guides, and walkthroughs that will guide you through the toughest levels. From epic quests to the most challenging boss battles, Knight Legends has got you covered.</p>
+</div>
+
+<footer class="footer">
+    <p>Created by Rizwan | <a href="mailto:your-email@example.com">Contact Me</a></p>
+</footer>
+
+</body>
+</html>
 
 <p align="center">
 English
