@@ -9,8 +9,9 @@ English
 
 <div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Latest%20Version)
-![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Total%20Downloads)
+![Latest Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?style=flat-square&label=Latest%20Version)
+![Total Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?style=flat-square&color=blue&logo=&label=Total%20Downloads)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&color=white&logo=telegram&logoColor=blue)](https://t.me/HorizonEmuOfficial)
 
 <p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />
@@ -57,29 +58,16 @@ GPU: Any GPU with Turnip support
 Root: Root is not required
 ```
 
-# Our main goals
+# TODO
 
 - [ ] Implement VirGL support
 - [x] Fix container deletion option
 - [ ] Add built-in controls
 
-# Special thanks
-Special thanks to all people that helped to maintain this project and making such many improvements (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
-
 ## Development assistance
 If you know about the change of resources in .apk and want to help in development, write to Telegram: @jotaros884. Thanks
 
-## Telegram Channels to find out information about the development
-
-[Horizon Emu (first information and tests)](https://t.me/HorizonEmuOfficial)
-
-[Snap's Channel (one of the main developers)](https://t.me/MoboxWinlatorExagear)
-
-[DragoPayras' Channel](https://t.me/DragOS_Channel)
-
-[Alexoqool's Channel](https://t.me/WinlatorRus)
-
-# Third party applications
+# Credits and Third Party Applications
 
 [Wine](https://wiki.winehq.org/Licensing)
 
@@ -112,3 +100,5 @@ If you know about the change of resources in .apk and want to help in developmen
 [Mesa](https://docs.mesa3d.org/license.html)
 
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+
+Also many thanks to all people aho helped to maintain this project and making such many improvements (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
