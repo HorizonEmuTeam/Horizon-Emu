@@ -20,10 +20,10 @@ English
   <h1 align="center">Horizon Emu</h1>
 
   <p align="center">
-    <strong>Horizon Emu is an application that allows you to run Windows x86_64 applications on your Android device</strong>
+    <b>Horizon Emu</b> is an application that allows you to run <b>Windows x86_64</b> applications on your <b>Android</b> device</strong>
   </p>
 
-<strong>Important: There is [fake Horizon Emu](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. Please, report this application, it's not official, paid, and may contain viruses. Thanks</strong>
+<b>Important</b>: There is [<b>fake Horizon Emu</b>](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. Please, report this application, it's not official, paid, and may contain viruses. Thanks</strong>
 
 ----
 
