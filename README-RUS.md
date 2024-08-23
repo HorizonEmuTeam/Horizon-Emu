@@ -9,8 +9,10 @@
 
 <div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?label=Последняя%20версия)
-![GitHub Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?logo=github&label=Всего%20загрузок)
+
+![Latest Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?style=flat-square&label=Последняя%20версия)
+![Total Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?style=flat-square&color=blue&logo=&label=Количество%20загрузок)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&color=white&logo=telegram&logoColor=blue)](https://t.me/HorizonEmuOfficial)
 
 <p align="center">
 	<img src="ProjectLogo.png" width="256" height="246" />  
@@ -64,24 +66,10 @@ Root: Root права не требуются
 - [x] Исправить опцию удаления контейнера
 - [ ] Добавить встроенное управление
 
-# Особая благодарность
-
-От всего сердца благодарим всех тех людей, которые участвовали в разработке этого проекта, и которые внесли множество изменений (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
-
 ## Помощь в развитии 
 Если вы знаете как изменять ресурсы Apk и хотите помочь в развитии, то, пожалуйста, напишите на Telegram: @jotaros884. Заранее спасибо
 
-## Telegram-каналы, в которых можно узнать информацию о разработке
-
-[Horizon Emu (первая информация и тесты)](https://t.me/HorizonEmuOfficial)
-
-[Канал Snap`а (одного из главных разработчиков)](https://t.me/MoboxWinlatorExagear)
-
-[Канал DragoPayras](https://t.me/DragOS_Channel)
-
-[Канал Alexoqool](https://t.me/WinlatorRus)
-
-# Сторонние приложения
+# Благодарности и сторонние приложения
 
 [Wine](https://wiki.winehq.org/Licensing)
 
@@ -114,3 +102,5 @@ Root: Root права не требуются
 [Mesa](https://docs.mesa3d.org/license.html)
 
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
+
+Также от всего сердца благодарим всех тех людей, которые участвовали в разработке этого проекта, и которые внесли множество изменений (<b>Jotaros</b>, <b>DragoPayras</b>, <b>Alexoqool</b>, <b>Snap</b>, <b>Deleted Account</b>, <b>Darum</b>)
