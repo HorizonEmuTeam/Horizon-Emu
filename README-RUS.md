@@ -11,7 +11,7 @@
 
 
 ![Latest Release](https://img.shields.io/github/v/release/HorizonEmuTeam/Horizon-Emu?style=flat-square&label=Последняя%20версия)
-![Total Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?style=flat-square&color=blue&logo=&label=Количество%20загрузок)
+![Total Downloads](https://img.shields.io/github/downloads/HorizonEmuTeam/Horizon-Emu/total?style=flat-square&color=blue&logo=&label=Всего%20загрузок)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&color=white&logo=telegram&logoColor=blue)](https://t.me/HorizonEmuOfficial)
 
 <p align="center">
