@@ -25,6 +25,7 @@ English
   </p>
 
 <b>Important</b>: The server that was providing files and updates for Horizon Emu has been closed for an indefinite period of time due to a hack by OlegOS, Hugo, and some other people. Please understand the complexity of the situation and such measures
+
 <b>Important 2</b>: There is [<b>fake Horizon Emu</b>](https://play.google.com/store/apps/details?id=com.chahal.horiz) in Google Play Store. Please, report this application, it's not official, paid, and may contain viruses. Thanks</strong>
 
 ----
