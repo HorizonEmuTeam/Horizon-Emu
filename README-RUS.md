@@ -74,8 +74,6 @@ Root: Root права не требуются
 
 [Wine](https://wiki.winehq.org/Licensing)
 
-[Box86](https://github.com/ptitSeb/box86)
-
 [Box64](https://github.com/ptitSeb/box64)
 
 [glibc-packages](https://github.com/termux-pacman/glibc-packages)
