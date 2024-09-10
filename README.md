@@ -72,8 +72,6 @@ If you know about the change of resources in .apk and want to help in developmen
 
 [Wine](https://wiki.winehq.org/Licensing)
 
-[Box86](https://github.com/ptitSeb/box86)
-
 [Box64](https://github.com/ptitSeb/box64)
 
 [glibc-packages](https://github.com/termux-pacman/glibc-packages)
