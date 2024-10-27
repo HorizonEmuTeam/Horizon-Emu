@@ -33,7 +33,7 @@ English
 # Installation 
 
 1. Go to [Releases tab](https://github.com/HorizonEmuTeam/Horizon-Emu/releases/), open latest release, download .apk file and install it, or download Horizon Emu from [RuStore](https://apps.rustore.ru/app/com.antutu.ABenchMark)
-2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all`, and if you need, install Scripts CPU Topology instead of the regular version of Scripts, and in this tab also download Wine version that you want
+2. Open an application called `Horizon Emu`, provide all requset permissions, go to `Download` tab, and click on `Update all` (and you are using Horizon Emu v1.0 or older, install Scripts CPU Topology instead of the regular version of Scripts if you need), and in this tab also download Wine version that you want
 3. Open `Containers` tab, click on `Create a new container`, select name for your container, and click `Confirm`
 
 To run container click on shortcut named `FileManager`
