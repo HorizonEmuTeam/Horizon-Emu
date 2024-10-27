@@ -38,6 +38,8 @@ English
 
 To run container click on shortcut named `FileManager`
 
+If (and only if) you are encountering Not connected screen when trying to launch container, try to download not-connected-fix' in the Download` tab
+
 For on-screen controls use application called InputBridge
 To use it, download and install [InputBridge_v0.1.9.9.apk](https://raw.githubusercontent.com/HorizonEmuTeam/Horizon-Emu/main/InputBridge_v0.1.9.9.apk), open an application called `InputBridge` and provide all requested permissions, then press `Import` and select file of your controls profile (in .ibp format).
 In container, InputBridge will be launched automatically
