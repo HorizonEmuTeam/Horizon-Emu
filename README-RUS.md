@@ -63,6 +63,29 @@
 Root: Root права не требуются
 ```
 
+# CI и поддержка Proton / FEX
+
+В репозитории добавлен GitHub Actions workflow, який автоматизує завантаження артефактів Proton і FEX Core (з Winlator або іншого джерела) і підготовку артефактів для релізу. Коротко:
+
+- Імена секретів (Repository secrets), які можна вказати для автоматичного завантаження:
+  - `PROTON_URL` — пряма URL до архіву Proton (zip/tar)
+  - `FEX_URL` — пряма URL до архіву FEX Core (zip/tar)
+
+- Запуск workflow:
+  - workflow запускається при push на `feature/proton-fex` (а також вручну через workflow_dispatch).
+
+- Що робить workflow:
+  - Скачування Proton/FEX в `artifacts/` (якщо задати URL).
+  - Якщо в репозиторії є Android Gradle проект (наявний `gradlew`), workflow виконає `./gradlew assembleDebug` і збере debug APK.
+  - Всі завантажені артефакти та APK завантажуються як артефакти збірки в Actions.
+
+- Файли, що додані:
+  - `scripts/fetch_winlator_assets.sh` — скрипт для завантаження Proton і FEX з вказаних URL.
+  - `scripts/pack_assets.sh` — копіює завантажені артефакти в `app/src/main/assets/thirdparty/` якщо Android-проєкт присутній.
+  - `.github/workflows/ci.yml` — сам workflow для Actions.
+
+> Примітка: Репозиторій наразі не містить повного Android-проєкту. Якщо у вас є готовий Android-проєкт або ви хочете, щоб я додав шаблон для збірки APK в CI — скажіть, і я додам наступні кроки.
+
 # Наши главные цели
 
 - [ ] Добавить поддержку VirGL

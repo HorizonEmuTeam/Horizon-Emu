@@ -61,6 +61,29 @@ GPU: Any GPU with Turnip support
 Root: Root is not required
 ```
 
+# CI and Proton / FEX support
+
+This repository now contains a GitHub Actions workflow to automate downloading Proton and FEX Core packages (from Winlator or other sources) and prepare build artifacts. Summary:
+
+- Repository secrets for automatic downloads:
+  - `PROTON_URL` — direct URL to Proton archive (zip/tar)
+  - `FEX_URL` — direct URL to FEX Core archive (zip/tar)
+
+- Triggering the workflow:
+  - Workflow runs on pushes to `feature/proton-fex` and can also be triggered manually via `workflow_dispatch`.
+
+- Workflow behaviour:
+  - Downloads Proton/FEX into `artifacts/` (if URLs provided).
+  - If an Android Gradle project is present (a `gradlew` file), the workflow runs `./gradlew assembleDebug` to build a debug APK.
+  - All downloaded artifacts and APKs are uploaded as build artifacts in Actions.
+
+- Added files:
+  - `scripts/fetch_winlator_assets.sh` — downloads Proton and FEX from provided URLs.
+  - `scripts/pack_assets.sh` — copies downloaded artifacts into `app/src/main/assets/thirdparty/` if an Android project exists.
+  - `.github/workflows/ci.yml` — GitHub Actions workflow.
+
+> Note: The repository does not currently contain a full Android project. If you have the Android project sources or want me to add a build template so an APK can be built in CI, I can add the next steps.
+
 # TODO
 
 - [ ] Implement VirGL support
