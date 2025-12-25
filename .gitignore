@@ -1,0 +1,5 @@
+# Generated artifacts
+artifacts/
+*.apk
+app/build/
+**/build/

@@ -1,0 +1,76 @@
+name: CI - Proton & FEX packaging and APK build
+
+on:
+  push:
+    branches: [ feature/proton-fex, main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  prepare-artifacts:
+    runs-on: ubuntu-latest
+    outputs:
+      artifacts-path: ${{ steps.artifacts.outputs.path }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up output dir
+        run: mkdir -p artifacts
+
+      - name: Download Proton and FEX (if URLs provided)
+        env:
+          PROTON_URL: ${{ secrets.PROTON_URL }}
+          FEX_URL: ${{ secrets.FEX_URL }}
+        run: |
+          chmod +x ./scripts/fetch_winlator_assets.sh || true
+          ./scripts/fetch_winlator_assets.sh || true
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: proton-fex-artifacts
+          path: artifacts
+
+  build-apk:
+    runs-on: ubuntu-latest
+    needs: prepare-artifacts
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: proton-fex-artifacts
+
+      - name: Pack assets into Android project (if exists)
+        run: |
+          if [ -f ./scripts/pack_assets.sh ]; then
+            chmod +x ./scripts/pack_assets.sh || true
+            ./scripts/pack_assets.sh || true
+          else
+            echo "No packing script found, skipping"
+          fi
+
+      - name: Setup JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Build APK if Android project present
+        run: |
+          if [ -f ./gradlew ]; then
+            chmod +x ./gradlew
+            ./gradlew assembleDebug --no-daemon
+            echo "APK built"
+          else
+            echo "No Android Gradle project found, skipping APK build"
+          fi
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: horizon-emu-apk
+          path: app/build/outputs/**/*.apk
+          if-no-files-found: ignore
