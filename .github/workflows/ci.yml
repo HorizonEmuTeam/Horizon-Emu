@@ -32,9 +32,57 @@ jobs:
           name: proton-fex-artifacts
           path: artifacts
 
-  build-apk:
+  build-fex-snap-debug:
     runs-on: ubuntu-latest
     needs: prepare-artifacts
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup build env
+        run: |
+          sudo apt update && sudo apt install -y build-essential cmake git pkg-config python3-pip ninja-build meson python3
+
+      - name: Build FEX (Snapdragon debug)
+        env:
+          OUTPUT_DIR: artifacts
+        run: |
+          chmod +x ./scripts/build_fex_snap_debug.sh || true
+          ./scripts/build_fex_snap_debug.sh || true
+
+      - name: Upload FEX artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: fex-snap-debug
+          path: artifacts/fex-snap-debug.tar.xz
+          if-no-files-found: ignore
+
+  build-vkd-dxvk:
+    runs-on: ubuntu-latest
+    needs: prepare-artifacts
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup build deps
+        run: |
+          sudo apt update && sudo apt install -y build-essential meson ninja-build python3-pip git pkg-config libvulkan-dev libx11-dev libxrandr-dev libxinerama-dev libxi-dev libxext-dev libxcb1-dev libx11-xcb-dev libxcb-xfixes0-dev libx11-dev libxkbcommon-dev libgl1-mesa-dev libwayland-dev
+
+      - name: Build vkd3d-proton and DXVK (DX11 support)
+        env:
+          OUTPUT_DIR: artifacts
+        run: |
+          chmod +x ./scripts/build_vkd_dxvk.sh || true
+          ./scripts/build_vkd_dxvk.sh || true
+
+      - name: Upload vkd/dxvk artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: vkd-dxvk-artifacts
+          path: artifacts/*.tar.xz
+          if-no-files-found: ignore
+
+  build-apk:
+    runs-on: ubuntu-latest
+    needs: [prepare-artifacts, build-fex-snap-debug, build-vkd-dxvk]
     steps:
       - uses: actions/checkout@v4
 
@@ -42,6 +90,15 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: proton-fex-artifacts
+
+      - name: Restore fex/vkd/dxvk artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: fex-snap-debug
+      - name: Restore vkd/dxvk artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: vkd-dxvk-artifacts
 
       - name: Pack assets into Android project (if exists)
         run: |
